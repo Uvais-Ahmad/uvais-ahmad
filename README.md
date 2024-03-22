@@ -20,8 +20,8 @@ I'm Uvais Ahmad, a proficient backend developer with a strong grasp of Node.js, 
 
 ## Connect with Me
 
-- GitHub
-- LinkedIn
-- Email: uvais@example.com
+- GitHub: https://github.com/Uvais-Ahmad
+- LinkedIn: www.linkedin.com/in/uvais-ahmad
+- Email: uvss21@gmail.com
 
 Feel free to explore my repositories and reach out! Let's collaborate and build something awesome together. 🚀
