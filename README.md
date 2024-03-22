@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Uvais-Ahmad/uvais-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Uvais Ahmad, a proficient backend developer with a strong grasp of Node.js, PostgreSQL, MongoDB, and a budding interest in React.js. Educated with a BCA and further honing my skills through an MCA from IGNOU, I'm on a continuous quest for knowledge. My goal is to merge my solid backend expertise with emerging frontend techniques to craft cutting-edge applications. I'm eager for opportunities to dive into new challenges and contribute to forward-thinking projects.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: Node.js, Express, PostgreSQL, MongoDB
+- **Frontend**: React.js (exploring)
+
+## Projects
+
+- Portfolio Website: My personal website showcasing my work and projects.
+- Task Manager App: A simple task management app built with React and Express.
+
+## Interests
+
+- Open-source contributions
+- Learning new technologies
+- Writing tech blogs
+
+## Connect with Me
+
+- GitHub
+- LinkedIn
+- Email: uvais@example.com
+
+Feel free to explore my repositories and reach out! Let's collaborate and build something awesome together. 🚀
