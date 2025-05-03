@@ -1,11 +1,14 @@
 # Hi there! 👋
 
-I'm Uvais Ahmad, a proficient backend developer with a strong grasp of Node.js, PostgreSQL, MongoDB, and a budding interest in React.js. Educated with a BCA and further honing my skills through an MCA from IGNOU, I'm on a continuous quest for knowledge. My goal is to merge my solid backend expertise with emerging frontend techniques to craft cutting-edge applications. I'm eager for opportunities to dive into new challenges and contribute to forward-thinking projects.
+I'm Uvais Ahmad, Software Developer Engineer with 2+ years of experience building end-to-end web and mobile applications using
+React, React Native, Node.js, and PostgreSQL. Proven ability to deliver scalable solutions across
+eCommerce, admin portals, and analytics systems. Career highlights include leading the development of a
+production-grade WMS system and launching a full-featured mobile eCommerce app. Eager to contribute to impactful software solutions in a fast-paced, user-focused environment.
 
 ## Skills
 
-- **Backend**: Node.js, Express, PostgreSQL, MongoDB
-- **Frontend**: React.js (exploring)
+- **Backend**: Node.js, PostgreSQL, MongoDB, TypeScript, Prisma, Sequelize
+- **Frontend**: React.js, NextJs, React Native, TailwindCSS
 
 ## Projects
 
