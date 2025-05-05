@@ -10,9 +10,9 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working as a **Full Stack Engineer at Depo24**
-- 🎓 **BCA** —  CCS University (2018 - 2021)
-- 🌱 Exploring **React.js**, **Next.js**, and **TypeScript**
-- 💬 Ask me about **Node.js**, **Express**, **PostgreSQL**, **MongoDB**
+- 🎓  I hold a Bachelor's degree in Computer Applications **(BCA)**
+- 🔭 I’m currently working on **cut-url** SaaS project.
+- 🤖 I'm always curious about exploring the latest tech trends and tools
 - 📫 Reach me at: [uvss21@gmail.com](mailto:uvss21@gmail.com)
 <!-- - 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io) -->
 - ⚡ Fun fact: I enjoy building SaaS products and contributing to open-source projects
