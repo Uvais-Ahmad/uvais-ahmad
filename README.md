@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working as a **Backend Developer at Depo24**
-- 🎓 Pursuing **MCA from IGNOU**, completed **BCA**
+- 🔭 Currently working as a **Full Stack Engineer at Depo24**
+- 🎓 **BCA** —  CCS University (2018 - 2021)
 - 🌱 Exploring **React.js**, **Next.js**, and **TypeScript**
 - 💬 Ask me about **Node.js**, **Express**, **PostgreSQL**, **MongoDB**
 - 📫 Reach me at: [uvss21@gmail.com](mailto:uvss21@gmail.com)
-- 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io)
+<!-- - 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io) -->
 - ⚡ Fun fact: I enjoy building SaaS products and contributing to open-source projects
 
 ---
