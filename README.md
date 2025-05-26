@@ -14,9 +14,9 @@
 - 🔭 I’m currently working on **cut-url** SaaS project.
 - 🤖 I'm always curious about exploring the latest tech trends and tools
 - 📫 Reach me at: [uvss21@gmail.com](mailto:uvss21@gmail.com)
-<!-- - 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io) -->
-<!-- - 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io) -->
 - ⚡ Fun fact: I enjoy building SaaS products and contributing to open-source projects
+  <!-- - 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io) -->
+ <!-- - 🌐 Portfolio: [uvais-ahmad.github.io](https://uvais-ahmad.github.io) -->
 
 ---
 
