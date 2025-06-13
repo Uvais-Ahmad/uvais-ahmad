@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working as a **Full Stack Engineer at Depo24**
+- 🔭 Currently working as a **Full Stack Engineer @ Depo24**
 - 🎓  I hold a Bachelor's degree in Computer Applications **(BCA)**
 - 🔭 I’m currently working on **cut-url** SaaS project.
 - 🤖 I'm always curious about exploring the latest tech trends and tools
