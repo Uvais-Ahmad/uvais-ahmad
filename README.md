@@ -38,9 +38,9 @@
 
 ### 📂 Featured Projects
 
-- 🚀 [**CloudVisinary**](https://github.com/Uvais-Ahmad/cloudVisinary): A SaaS platform to manage and edit social media content, inspired by Cloudinary. Built with Next.js and TypeScript.
-- 🔗 [**cut-url**](https://github.com/Uvais-Ahmad/cut-url): A URL shortening service that provides additional content based on the shortened URL.
-- 🧠 [**Job-Seeker**](https://github.com/Uvais-Ahmad/Job-Seeker): A platform to assist job seekers in finding suitable opportunities.
+- 🚀 [**CloudVisinary**](https://github.com/Uvais-Ahmad/cloudVisinary): A SaaS platform to manage and edit social media content, inspired by Cloudinary. Built with Next.js and TypeScript..
+- 🔗 [**cut-url**](https://github.com/Uvais-Ahmad/cut-url): A URL shortening service that provides additional content based on the shortened URL..
+- 🧠 [**Job-Seeker**](https://github.com/Uvais-Ahmad/Job-Seeker): A platform to assist job seekers in finding suitable opportunities..
 
 ---
 
