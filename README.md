@@ -48,8 +48,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uvais-Ahmad&show_icons=true&theme=github_dark" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Uvais-Ahmad&theme=dark" height="180px" />
-<!--   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statss.herokuapp.com?user=Uvais-Ahmad" alt="GitHub Streak" /></a> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Uvais-Ahmad&theme=dark" height="180px" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statss.herokuapp.com?user=Uvais-Ahmad" alt="GitHub Streak" /></a>
 </p>
 
 
