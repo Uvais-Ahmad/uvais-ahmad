@@ -20,8 +20,29 @@
 
 ---
 
-### 🛠️ Tech Stack
+---
 
+## 🏆 Selected achievements
+
+* Replaced a third‑party WMS (Vinculum) with an in‑house Warehouse Management System, reducing third‑party costs by **\~30%**.
+* Built a production-ready RBAC module and a cross-platform React Native app for logistics workflows.
+* Migrated critical product data from **MongoDB → PostgreSQL** and improved system performance.
+* Integrated secure PhonePe payments in production services.
+* Developed a Cross-Platform React Native App with a unified codebase, enabling faster shipping and consistent user experience across Android/iOS.
+* Enhanced Business Insights with reporting dashboards for admins, driving a 40% improvement in warehouse decision-making efficiency.
+
+---
+
+### 🛠️ Tech Stack
+**Languages & Runtimes:** TypeScript, JavaScript, Python (basics)
+
+**Backend:** Node.js, Express, Flask (basic), AWS Lambda, Serverless patterns, AWS EC2
+
+**Databases:** PostgreSQL, MongoDB, Prisma, Supabase, Redis
+
+**Frontend:** React, Next.js, Tailwind CSS, React Native
+
+**Other:** Git, Docker, Cloudinary-AI, Chart.js, Redis, S3, PM2, Nginx
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgresql,mysql,sequelize,mongo,aws"
