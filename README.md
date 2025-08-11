@@ -20,8 +20,6 @@
 
 ---
 
----
-
 ## 🏆 Selected achievements
 
 * Replaced a third‑party WMS (Vinculum) with an in‑house Warehouse Management System, reducing third‑party costs by **\~30%**.
